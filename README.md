@@ -125,4 +125,4 @@ See the [`examples/`](examples/) folder for runnable demonstrations.
 
 ## License
 
-MIT
+[Apache-2.0](LICENSE)
